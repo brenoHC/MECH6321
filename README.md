@@ -8,4 +8,4 @@ The project focuses on comparing Genetic and Particle swarm algorithms for optim
 Topology Optimization is carried out. Code for the FEA-based solver is generic and hence can be extended to any objective function such as Heat Transfer, truss beams, vibrations, etc.   
 
 ## Results
-A XXX% decrease in the weight was achieved and benchmarked with other methods available. Please look at the attached documents for further understanding of the project. 
+A 50% decrease in the weight was achieved and benchmarked with other methods available. Please look at the attached documents for further understanding of the project. 
